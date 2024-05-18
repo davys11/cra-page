@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/first-react-app.iml" filepath="$PROJECT_DIR$/.idea/first-react-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cra-page/.idea/cra-page.iml" filepath="$PROJECT_DIR$/../cra-page/.idea/cra-page.iml" />
     </modules>
   </component>
 </project>
